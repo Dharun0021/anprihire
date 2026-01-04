@@ -201,7 +201,7 @@ export default function Home() {
               </div>
               <div className="space-y-4">
                 <div className="bg-secondary text-white p-8 rounded-xl">
-                  <div className="text-4xl font-bold mb-2">500+</div>
+                  <div className="text-4xl font-bold mb-2">300+</div>
                   <div className="text-sm uppercase tracking-wider font-medium opacity-80">Global Placements</div>
                 </div>
                 <div className="bg-muted rounded-xl h-64 relative overflow-hidden">

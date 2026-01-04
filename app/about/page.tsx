@@ -119,7 +119,7 @@ export default function About() {
                 </div>
               </div>
               <div>
-                <div className="text-primary text-4xl font-bold mb-1">500+</div>
+                <div className="text-primary text-4xl font-bold mb-1">100+</div>
                 <div className="text-sm font-semibold uppercase tracking-widest text-muted-foreground">
                   Active Clients
                 </div>
