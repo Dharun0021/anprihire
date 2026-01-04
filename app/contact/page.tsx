@@ -43,7 +43,7 @@ export default function Contact() {
                 },
                 { icon: <Phone />, title: "Call Us", content: "+91 8148177703 / +91 8056977492" },
                 { icon: <Mail />, title: "Email Us", content: "anprihireconnetra@gmail.com" },
-                { icon: <Globe />, title: "Website", content: "anprihireconnectra.com" },
+                { icon: <Globe />, title: "Website", content: "anprihireconnetra.com" },
               ].map((item, idx) => (
                 <div key={idx} className="space-y-3">
                   <div className="w-12 h-12 bg-primary/10 text-primary rounded-lg flex items-center justify-center">

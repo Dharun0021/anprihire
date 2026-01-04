@@ -20,8 +20,8 @@ export const metadata: Metadata = {
     "AnPri Hire Connetra Private Limited provides premier IT and Non-IT staffing solutions. Connecting world-class talent with industry leaders.",
   generator: 'v0.app',
   icons: {
-    icon: '/logo/logo.jpg',
-    apple: '/logo/logo.jpg',
+    icon: '/logo/mainlogo.png',
+    apple: '/logo/mainlogo.png',
   }
 }
 

@@ -32,14 +32,14 @@ export default function Home() {
             className="max-w-4xl mx-auto"
           >
             <motion.h1 className="text-4xl md:text-4xl font-medium tracking-tight mb-6">
-              Anpri Hire Connetra Contract Staffing Agency in Bangalore
+              Anpri Hire Connetra Contract Staffing Agency in Pan India
             </motion.h1>
             <div className="flex items-center justify-center gap-2 text-sm md:text-base text-white/70 font-medium">
               <Link href="/" className="hover:text-white transition-colors">
                 Home
               </Link>
               <span>{">"}</span>
-              <span className="text-white">Contract Staffing Agency in Bangalore</span>
+              <span className="text-white">Contract Staffing Agency in Pan India</span>
             </div>
           </motion.div>
         </div>
