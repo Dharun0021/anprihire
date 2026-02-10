@@ -41,8 +41,8 @@ export default function Contact() {
                   content:
                     "42-3, Hosa Road, Basapura, Chikka Thogur Main raod, Electronics City, Bangalore South, Bangalore-560100",
                 },
-                { icon: <Phone />, title: "Call Us", content: "+91 8148177703 / +91 8056977492" },
-                { icon: <Mail />, title: "Email Us", content: "anprihireconnetra@gmail.com" },
+                { icon: <Phone />, title: "Call Us", content: "+91 9600399060" },
+                { icon: <Mail />, title: "Email Us", content: "admin@anprihireconnetra.com" },
                 { icon: <Globe />, title: "Website", content: "anprihireconnetra.com" },
               ].map((item, idx) => (
                 <div key={idx} className="space-y-3">
