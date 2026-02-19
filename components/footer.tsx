@@ -88,14 +88,13 @@ export default function Footer() {
               <li className="flex gap-3 text-white/60">
                 <Phone className="w-5 h-5 text-primary shrink-0" />
                 <div>
-                  <p>+91 81481 77703 (Recruitment)</p>
-                  <p>+91 80559 77492 (Accounts)</p>
+                  <p>+91  9600399060 (Business develop)</p>
                 </div>
               </li>
               <li className="flex gap-3 text-white/60">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
                 <a href="mailto:anprihireconnetra@gmail.com" className="hover:text-primary transition-colors">
-                  anprihireconnetra@gmail.com
+                  admin@anprihireconnetra.com
                 </a>
               </li>
               <li className="flex gap-3 text-white/60">
